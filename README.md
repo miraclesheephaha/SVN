@@ -25,8 +25,29 @@
    <img width="529" height="272" alt="image" src="https://github.com/user-attachments/assets/b4a5d005-36bd-479d-ac73-150d60099bda" />
 
 ## SVN設定
+### 設定中文版  
+1.右鍵點擊資料夾找到設定 
 
-   
+<img width="416" height="253" alt="image" src="https://github.com/user-attachments/assets/0fb36844-7033-42d2-9832-b708c6240935" />  
+
+2. 若有安裝中文PACK會出現以下圖片中的選項
+
+   <img width="378" height="364" alt="image" src="https://github.com/user-attachments/assets/69c88596-8c02-4df5-90c8-460195714fe3" />
+
+### 設定圖示  
+1.與中文設定一樣進入設定畫面  
+
+<img width="551" height="416" alt="image" src="https://github.com/user-attachments/assets/e1b034fc-6029-4283-99be-686db0bea603" />  
+
+2. 按下確定後重新啟動電腦即可套用
+
+
+
+
+
+
+
+
 
    
 
