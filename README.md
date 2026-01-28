@@ -10,7 +10,8 @@
  
    <img width="556" height="84" alt="image" src="https://github.com/user-attachments/assets/28dbe110-dcb3-4842-8138-7db529224cb6" />
 3. 接著建立測試資料夾，通常只會在這裡進行操作
-   <img width="191" height="133" alt="image" src="https://github.com/user-attachments/assets/64cb5155-2774-4e69-94f2-1000f3908baa" />  
+   <img width="191" height="133" alt="image" src="https://github.com/user-attachments/assets/64cb5155-2774-4e69-94f2-1000f3908baa" />
+   
    確定檔案庫的路徑和取出目錄的路徑資料是否正確  
    <img width="374" height="371" alt="image" src="https://github.com/user-attachments/assets/5d585f4f-28d6-4d5b-8727-429988ceda55" />  
 5. 點擊確定會出現以下畫面
