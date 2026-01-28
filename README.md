@@ -9,9 +9,9 @@
 1. 創建新的資料夾，這裡我名稱些server方便區分
    <img width="1113" height="168" alt="image" src="https://github.com/user-attachments/assets/28dbe110-dcb3-4842-8138-7db529224cb6" />
 2. 接著建立測試資料夾，通常只會在這裡進行操作
-   <img width="382" height="267" alt="image" src="https://github.com/user-attachments/assets/64cb5155-2774-4e69-94f2-1000f3908baa" />
-   確定檔案庫的路徑和取出目錄的路徑資料是否正確
-   <img width="749" height="743" alt="image" src="https://github.com/user-attachments/assets/5d585f4f-28d6-4d5b-8727-429988ceda55" />
+   <img width="382" height="267" alt="image" src="https://github.com/user-attachments/assets/64cb5155-2774-4e69-94f2-1000f3908baa" />  
+   確定檔案庫的路徑和取出目錄的路徑資料是否正確  
+   <img width="749" height="743" alt="image" src="https://github.com/user-attachments/assets/5d585f4f-28d6-4d5b-8727-429988ceda55" />  
 3. 點擊確定會出現以下畫面
    <img width="1056" height="542" alt="image" src="https://github.com/user-attachments/assets/421dff11-a558-4670-944a-8d55d6ab725e" />
 4. 可點擊剛創建的Test2資料夾新建新的檔案，右鍵點擊SVN送交
