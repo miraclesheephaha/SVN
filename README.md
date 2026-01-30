@@ -44,6 +44,9 @@
 2. 按下確定後重新啟動電腦即可套用
 
 
+### 安裝專案問題
+1.若存取遭拒則  
+<img width="1031" height="825" alt="image" src="https://github.com/user-attachments/assets/60c65773-92a1-4992-aeea-0510d0113a7b" />
 
 
 
